@@ -21,3 +21,5 @@ Open up [http://localhost:8000](http://localhost:8000) in a web browser.
 - [http://localhost:8000/](http://localhost:8000/) will active `koubei`
 - [http://localhost:8000/seeconf](http://localhost:8000/seeconf) will active `seeconf`
 - [http://localhost:8000/juejin](http://localhost:8000/juejin) will active `seeconf` and `juejin`
+
+![](./demo.gif)
