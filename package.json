@@ -15,7 +15,7 @@
     "ci": "npm run lint"
   },
   "dependencies": {
-    "@icatjs/micro": "^0.0.7-rc.2",
+    "@icatjs/micro": "^0.0.9-rc.3",
     "single-spa": "^5.8.2"
   },
   "devDependencies": {
